@@ -3,11 +3,11 @@ In this time when COVID-19 is spreading rapidly, it is essential to maintain soc
 
 So, today we have decided to make a Smart COVID-19 Crowd Detection Camera that will keep a watchful eye on all illegal activities and detect any crowd/person/vehicle on the road. The device also can alert the authorities regarding unnecessary gatherings.
 
-However, this camera is not just limited to this. It can be used to:
---> Detect high traffic on roads.
---> Identify any unauthorised human entry in a restricted area.
---> Observe the number of people in a hall/auditorium.
---> Maintain and monitor the flow of the crowd in a protest demonstration.
+However, this camera is not just limited to this. It can be used to:</br>
+--> Detect high traffic on roads.</br>
+--> Identify any unauthorised human entry in a restricted area.</br>
+--> Observe the number of people in a hall/auditorium.</br>
+--> Maintain and monitor the flow of the crowd in a protest demonstration.</br>
 
 Technologies used:
 The neural network was trained used using the YoloV3 Algorithm.
