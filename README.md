@@ -10,6 +10,6 @@ However, this camera is not just limited to this. It can be used to:</br>
 --> Maintain and monitor the flow of the crowd in a protest demonstration.</br>
 
 Technologies used:
-The neural network was trained used using the YoloV3 Algorithm.
-COCO dataset was used to train the model.
-Scipy cdist method was used to calculate the distance.
+The neural network was trained used using the YoloV3 Algorithm.</br>
+COCO dataset was used to train the model.</br>
+Scipy cdist method was used to calculate the distance.</br>
