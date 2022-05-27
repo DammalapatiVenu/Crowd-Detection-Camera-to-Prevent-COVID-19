@@ -9,7 +9,7 @@ However, this camera is not just limited to this. It can be used to:</br>
 --> Observe the number of people in a hall/auditorium.</br>
 --> Maintain and monitor the flow of the crowd in a protest demonstration.</br>
 
-Technologies used:
+Technologies used:</br>
 The neural network was trained used using the YoloV3 Algorithm.</br>
 COCO dataset was used to train the model.</br>
 Scipy cdist method was used to calculate the distance.</br>
